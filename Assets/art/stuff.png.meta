@@ -5,6 +5,7 @@ TextureImporter:
     21300000: home_desk
     21300002: floor
     21300004: dresser
+    21300006: wall
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -91,7 +92,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 38
+        y: 102
         width: 34
         height: 26
       alignment: 0
@@ -101,27 +102,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f319b5d568ca87948b1704869d403385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: floor
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 20
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5833521fb47dc714db2c06436ddacba0
+      spriteID: efb5b7bccc3a09246bca6ae62d1f0e94
       vertices: []
       indices: 
       edges: []
@@ -131,7 +112,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 35
-        y: 35
+        y: 99
         width: 19
         height: 29
       alignment: 0
@@ -141,7 +122,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdb3cb071d086c54c97097c294c3a291
+      spriteID: 9e102611d51fc4f42bb65c3ce3e1748b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fdfa1884ca8284dbf292ed160bbe96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d09774fd8424d4194d326f4f654ef6
       vertices: []
       indices: 
       edges: []
